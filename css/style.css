@@ -131,7 +131,7 @@ section .nav-container{
     padding-top: 100px;
 }
 #target p{
-    /* text-align: justify; */
+    text-align: justify;
 }
 #personal-info{
     background-color: #f1f3f5;
